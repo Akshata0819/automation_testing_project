@@ -70,18 +70,7 @@ public class Test_WebPage {
 		Thread.sleep(3000);
 		
 		driver.findElement(By.xpath("//button[contains(text(),'Submit')]")).click();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+			
 }
 
 }
